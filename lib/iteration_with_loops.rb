@@ -1,4 +1,3 @@
-require 'pry'
 def find_min_in_nested_arrays(array_of_daily_temperatures)
  outer_results = []
  row_index = 0
